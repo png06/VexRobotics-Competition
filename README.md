@@ -31,13 +31,13 @@ The robot was designed to complete multiple scoring objectives while mitigating 
 
 Initial structural concepts and mechanism layouts were drafted to plan component placement within the maximum size envelope.
 
-![Initial Concept Sketch 1](docs/sketch1.png)
+![Initial Concept Sketch 1](VexSketch1.png)
 *> Initial drive base and motor configuration layout.*
 
-![Mechanism Sketch 2](docs/sketch2.png)
+![Mechanism Sketch 2](VexSketch2.png)
 *> Slide rail elevator and vertical reach geometry.*
 
-![Manipulator Sketch 3](docs/sketch3.png)
+![Manipulator Sketch 3](VexSketch3.png)
 *> Detailed claw manipulator mechanism and servo attachment plan.*
 
 ---
@@ -46,7 +46,7 @@ Initial structural concepts and mechanism layouts were drafted to plan component
 
 The final robot assembly integrated a custom slide elevator and rubber tank treads to navigate field terrain and manipulate game objects.
 
-![Final VEX Robot Build](docs/robot_build.png)
+![Final VEX Robot Build](VexBot1.png)
 *> Assembled VEX robot prototype showing tread drive, lift structure, and claw assembly.*
 
 ---
@@ -76,7 +76,7 @@ Hardware testing revealed several mechanical bottlenecks that required iterative
 
 Strategy targeted high-point objectives while steering clear of severe penalty zones (e.g., -500 pts for mammal casualties or dropped high blocks)[cite: 1].
 
-![Official Point Sheet / Score Matrix](docs/point_sheet.png)
+![Official Point Sheet / Score Matrix](PointSheet.png)
 *> Competition scoring breakdown and penalty matrix.*
 
 * **Round 1 Score:** 2,400 pts[cite: 1]
