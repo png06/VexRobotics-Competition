@@ -31,15 +31,23 @@ The robot was designed to complete multiple scoring objectives while mitigating 
 
 Initial structural concepts and mechanism layouts were drafted to plan component placement within the maximum size envelope.
 
-![Initial Concept Sketch 1](VexSketch1.png)
-*> Initial drive base and motor configuration layout.*
+<p align="center">
+  <img src="VexSketch1.png" width="550" alt="Sketch 1: Forklift">
+  <br>
+  <em>Figure 1: Physical TTL hardware implementation driven by DIP switch inputs and validated on a common-anode 7-segment display.</em>
+</p>
 
-![Mechanism Sketch 2](VexSketch2.png)
-*> Slide rail elevator and vertical reach geometry.*
+<p align="center">
+  <img src="VexSketch2.png" width="550" alt="Sketch 2: Mobile Claw">
+  <br>
+  <em>Figure 1: Physical TTL hardware implementation driven by DIP switch inputs and validated on a common-anode 7-segment display.</em>
+</p>
 
-![Manipulator Sketch 3](VexSketch3.png)
-*> Detailed claw manipulator mechanism and servo attachment plan.*
-
+<p align="center">
+  <img src="VexSketch3.png" width="550" alt="Sketch 3: Enhanced Mobile Claw">
+  <br>
+  <em>Figure 1: Physical TTL hardware implementation driven by DIP switch inputs and validated on a common-anode 7-segment display.</em>
+</p>
 ---
 
 ## Hardware Construction & Final Build
